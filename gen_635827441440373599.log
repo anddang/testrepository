@@ -1,0 +1,102 @@
+11/10/2015 9:22 AM [  9]: Starting Generator in Domain: C:\Source_2\SA\DataGenerators\Generator\bin\Debug\
+11/10/2015 9:22 AM [  9]: Scanning for generators.....
+11/10/2015 9:22 AM [  9]: AppConfig Setting: EventHubName -> [IngestEventHubName]
+11/10/2015 9:22 AM [  9]: AppConfig Setting: EventHubConnectionString -> [EventHubConnectionString]
+11/10/2015 9:22 AM [  9]: AppConfig Setting: StorageAccountConnectionString -> [StorageAccountConnectionString]
+11/10/2015 9:22 AM [  9]: Searching Generators: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Data.Edm.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Data.OData.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Data.Services.Client.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.ServiceBus.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Newtonsoft.Json.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\SACommon.dll
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\SAPMGeneratorEngine.dll
+11/10/2015 9:22 AM [  9]: Generator Found : SAPMGeneratorEngine.SAPMDataGenerator 
+11/10/2015 9:22 AM [  9]: Generator Predictive Maintenance Data Generator using individual configuration
+11/10/2015 9:22 AM [  9]: Attempting to LOAD config for Predictive Maintenance Data Generator at location C:\Source_2\SA\DataGenerators\Generator\bin\Debug\PredictiveMaintenanceDataGeneratorConfig.json
+11/10/2015 9:22 AM [  9]: Type Succesfully Constructed : Predictive Maintenance Data Generator 
+11/10/2015 9:22 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\System.Spatial.dll
+11/10/2015 9:22 AM [  9]: Generator data is available
+11/10/2015 9:22 AM [  9]: Active generator selected : Predictive Maintenance Data Generator
+11/10/2015 9:22 AM [  9]: Configuration Valid: True
+11/10/2015 9:22 AM [  9]: Configuration Valid: True
+11/10/2015 9:22 AM [  9]: Attempting to SAVE config for Predictive Maintenance Data Generator at location C:\Source_2\SA\DataGenerators\Generator\bin\Debug\PredictiveMaintenanceDataGeneratorConfig.json
+11/10/2015 9:22 AM [  9]: Configuration Valid: True
+11/10/2015 9:22 AM [  9]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 
+11/10/2015 9:23 AM [  9]: Selection Entered: 0
+11/10/2015 9:23 AM [  9]: Configuration Valid: True
+11/10/2015 9:23 AM [  9]: Initializing generator Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  9]: Initializing Generator: Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  9]: Starting generator Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  9]: Generator Starting : Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  9]: Initialization time  0:00:00.0109996
+11/10/2015 9:23 AM [  6]: ++Job Start Request Recieved++
+11/10/2015 9:23 AM [  9]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 
+11/10/2015 9:23 AM [  6]: Getting Configuration Value: EventHubName -> testhub
+11/10/2015 9:23 AM [  6]: Getting Configuration Value: EventHubConnectionString -> Endpoint=sb://pmaircraftservicebus.servicebus.windows.net/;SharedAccessKeyName=publictestkey;SharedAccessKey=5AKdJGteQitmNsjHmdPKVatGY7lFWRkOty9eIC11amQ=
+11/10/2015 9:23 AM [  6]: Event Hub Utility Details: Endpoint=sb://pmaircraftservicebus.servicebus.windows.net/;SharedAccessKeyName=publictestkey;SharedAccessKey=5AKdJGteQitmNsjHmdPKVatGY7lFWRkOty9eIC11amQ= :: testhub
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 482 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 480 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 477 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 481 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 475 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 478 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 480 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 481 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 491 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 482 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 481 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 490 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 491 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 481 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 481 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 477 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 494 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 494 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 494 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 493 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 483 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 481 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 475 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 493 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 482 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 491 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 490 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 482 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 476 (bytes)
+11/10/2015 9:23 AM [  6]: Individual Event Hub Record : testhub -> 493 (bytes)
+11/10/2015 9:23 AM [  9]: Selection Entered: 1
+11/10/2015 9:23 AM [  9]: Stopping generator Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  9]: Generator Stopping : Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  9]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 
+11/10/2015 9:23 AM [  6]: Generator Cancelled : Predictive Maintenance Data Generator
+11/10/2015 9:23 AM [  6]: --Job End Request Recieved--
+11/10/2015 9:28 AM [  9]: Selection Entered: 4
+11/10/2015 9:28 AM [  9]: Data generation quitting, press enter key to continue
+11/10/2015 9:28 AM [  9]: Program terminated
