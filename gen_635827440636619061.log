@@ -1,0 +1,27 @@
+11/10/2015 9:21 AM [  9]: Starting Generator in Domain: C:\Source_2\SA\DataGenerators\Generator\bin\Debug\
+11/10/2015 9:21 AM [  9]: Scanning for generators.....
+11/10/2015 9:21 AM [  9]: AppConfig Setting: EventHubName -> [IngestEventHubName]
+11/10/2015 9:21 AM [  9]: AppConfig Setting: EventHubConnectionString -> [EventHubConnectionString]
+11/10/2015 9:21 AM [  9]: AppConfig Setting: StorageAccountConnectionString -> [StorageAccountConnectionString]
+11/10/2015 9:21 AM [  9]: Searching Generators: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Data.Edm.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Data.OData.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.Data.Services.Client.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.ServiceBus.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\Newtonsoft.Json.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\SACommon.dll
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\SAPMGeneratorEngine.dll
+11/10/2015 9:21 AM [  9]: Generator Found : SAPMGeneratorEngine.SAPMDataGenerator 
+11/10/2015 9:21 AM [  9]: Generator Predictive Maintenance Data Generator using individual configuration
+11/10/2015 9:21 AM [  9]: Attempting to LOAD config for Predictive Maintenance Data Generator at location C:\Source_2\SA\DataGenerators\Generator\bin\Debug\PredictiveMaintenanceDataGeneratorConfig.json
+11/10/2015 9:21 AM [  9]: Type Succesfully Constructed : Predictive Maintenance Data Generator 
+11/10/2015 9:21 AM [  9]: Searching DLL: C:\Source_2\SA\DataGenerators\SAPMGeneratorEngine\bin\Debug\System.Spatial.dll
+11/10/2015 9:21 AM [  9]: Generator data is available
+11/10/2015 9:21 AM [  9]: Active generator selected : Predictive Maintenance Data Generator
+11/10/2015 9:21 AM [  9]: Configuration Valid: True
+11/10/2015 9:21 AM [  9]: Configuration Valid: True
+11/10/2015 9:21 AM [  9]: Attempting to SAVE config for Predictive Maintenance Data Generator at location C:\Source_2\SA\DataGenerators\Generator\bin\Debug\PredictiveMaintenanceDataGeneratorConfig.json
+11/10/2015 9:21 AM [  9]: Configuration Valid: True
+11/10/2015 9:21 AM [  9]: Choose an action:	0 - Start	1 - Stop	2 - Configure	3 - Status	4 - QuitSelection: 
